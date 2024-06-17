@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prime-Factorization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47dad22352ede63dcaf1acefb246f56499151d0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prime-Factorization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prime-Factorization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
